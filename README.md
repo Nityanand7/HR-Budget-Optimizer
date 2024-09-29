@@ -5,13 +5,14 @@
 
 In this project, we analyze various HR-related data such as employee information, salary data, department budgets, and project details to identify which departments or projects are at risk of going over budget or underperforming. The goal is to organize the data, structure it properly for analysis, and create a comprehensive dashboard that provides insights into budget allocation, employee performance, and project management.
 
+![image](https://github.com/user-attachments/assets/bcbd910b-7f48-4f34-af50-d2465d5a962c)
+
 ---
 
 ## Use Case
 
 The primary question we aim to solve is: **Which projects and departments are at risk of being over budget or underperforming?** By organizing and analyzing data, we provide insights that will help manage workforce performance, monitor financial risks, and identify areas that require corrective action.
 
----
 
 ## Requirements
 
